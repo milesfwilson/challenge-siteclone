@@ -1,0 +1,9 @@
+body { min-height: 100vh; display: flex; flex-direction: column; }
+header{ } 
+main{flex-grow: 1;} 
+footer{ }
+
+.bg-image{
+  background-image: url("phone-bg.jpg");
+  background-size: 100%;
+}
